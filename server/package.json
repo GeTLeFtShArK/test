@@ -1,0 +1,17 @@
+{
+    "name": "gamey",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.mjs",
+    "dependencies": {
+        "discord.js": "^12.3.1",
+        "igdb-api-node": "^4.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node --experimental-modules index.mjs",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "twofist",
+    "license": "MIT"
+}
